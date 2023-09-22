@@ -1,0 +1,5 @@
+in local(vscode) run main.py, folder call artifacts created
+inside it every component will be created and model and tokernizer will saved.
+
+to run api, run local(vscode) run app.py then fastapi will be opened.
+through fastapi you can train the model and do predictions.
